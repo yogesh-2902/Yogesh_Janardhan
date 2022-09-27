@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @YogeshAcchu
+- 👋 Hi, I’m @Yogesh J
 - 👀 I’m interested in mainly Web Development and also trying out new things which mainly involves tech.
-- 🌱 I’m currently learning Web Development in Addition with Data Structures and Algo.
+- 🌱 I’m currently learning Web Development in Addition with Data Structures and Algo in Java.
 - 💞️ I’m looking to collaborate with anyone who has similar interests and goals.
 - 📫 You can reach to me on my Instagram.Just give a "hi" and ill get back to you.
